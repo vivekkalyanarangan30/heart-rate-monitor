@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6817fe656f53aa1267864ea7004e587910ce419c">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_536f2b6a1764ed66f68b0044ec337ce6d82bc9ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_899fa0b70e14f9d9bf98b3eee90aaf3259e5e390\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_f7f6e83d311afdd3b162b150bf086b5b65341a7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_7ab5a566e68a4885c4812e30473a643f42cd0f4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_980ab71c39474342b876460e64459ba9860bcf79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.0.0_58d552a08cd4fe6b2dac932a653c449c5d653e6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_77de2e8d523c6a56c20d1ac5b493b96dc903e59c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_1258a2504d7f00a0f82ecad7c73807828b928e2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_5e1258b3b38d5f5629f9ba6d14733ace45a0fd0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_54e472d5f3298684c4ee89a3a2d27bb5c8ae790e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_5a9a14fecd6cde1939770e76d8d6544bb2c8c327\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.support-wearable-1.3.0_975e235aa3114d009d58a61672fdcf2ecd9a9bd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d20d2e8b24ba4d284dc9c8a0a2e5da5ec6e35fa6">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ad217f4593cc469f37616b52f9ec0aafa3e586dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c710e8f042095e80aa46c9139689d8d8815eba1d">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_617f1bf82e49105d2f7bd2d3035f3c7f71eae5d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_4adbdfa3820a45339180c4dfe2b8034d5fe8d386\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.0_23768b91d84fa3589a3251acd2dd1da2085b2682\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_64d7959800c85682fe80f34f245b649f34107e4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_3ea08add94a157b868156fddd619973405dde8cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_b862f49cadd1467bafe1477f7b308a5f2dc67fb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_fca9bf1f63252cb9174756b0ef067e971fc99d40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_8d047a1053906a51a30f6c0a4cd151ffaa1d95f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.0_50cabc80520b640c8cc78dbf187d27c15748bc50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_11e5c6f54e480e1dd1fdbae77bfa3d51300d7d36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_7dfb5cb3e365c3eab310011cf6e83d65488f34c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_313dfa7023ef66c1ae501b9c7221f284aeb85e67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_8c82641e623874a7a63f3649d05d4f3a10847a1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_6235e14a701f5c790b772c271acbe1e0c24c399c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa75f6a8f6daf4b10ed8b76d5276cf088b8e94b0">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4ff4f9e482f4d78df9394e6b461369726b885f50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_0e84667fc059ff659c82694cc2bd0e611b5ee717\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_523809decc4d878c7ea9f3f46b0eac75c9b4b3ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_b456189ecdb6e958a3506a144977b5ae8b2d16d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_9f1fc40dee06055bcc32db58e877d6dabfa45648\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_4749c92d5e44fda48f6e73b9d19b68366d7903df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_606d1a875cd874a34e2ba8088b3dc10976d89d5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_687a2c23c81de0e395156c863304e4aaf1d9cecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_0d930d15448e3b29550660fd346ff7461915c522\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_0ad074ff29da8d9ddb0cfe2ee883864b574ed7c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_136254ef8934638758aeaf8fd9ab16e3febcb9e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_8dbbc26d3a75abbf2d29061c61c39ed5f3b70cbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_01bc83ca7d69e5f6ef9f4657e58ab5792e56f15c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_7230d9e6d772930c71d68548125cad1a143d33ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_78cccaae64cd67f7947ed795623d334730e94fe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_cb7cdd592804bc6c5ab962c644e730bb5238c353\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_bbdf89ab71b7c5afbd09684e0ada541db260037c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\vk046010\Documents\Android\HeartRateTest1\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_172deffd4259feb98494420cf16a54dce7367ff8\classes.dex" />
+    </item>
+
+</items>
